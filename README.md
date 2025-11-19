@@ -5,12 +5,13 @@
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
 
 # Requirements
-<b>
+<br>
 1.AWS Console access
 2.CloudTrail service enabled
 3.S3 bucket (for storing logs)
 4.IAM permissions to view audit logs
-</b>
+</br>
+
 # Procedure
 ## Step 1: Enable CloudTrail
 Go to CloudTrail from AWS Console Click Trails > Create trail Name: CloudAuditTrail Apply trail to all regions Log events:
