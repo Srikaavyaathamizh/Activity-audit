@@ -1,14 +1,16 @@
 ## EX - 4 Auditing Cloud Activity Using AWS CloudTrail
-## NAME:SRIKAAVYAA T
-## REG NO:212223230214
+## NAME: SRIKAAVYAA T
+## REG NO: 212223230214
 # Aim
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
 
 # Requirements
+<b>
 1.AWS Console access
 2.CloudTrail service enabled
 3.S3 bucket (for storing logs)
 4.IAM permissions to view audit logs
+</b>
 # Procedure
 ## Step 1: Enable CloudTrail
 Go to CloudTrail from AWS Console Click Trails > Create trail Name: CloudAuditTrail Apply trail to all regions Log events:
